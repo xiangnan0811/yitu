@@ -2,11 +2,11 @@
 亿图全景图库图片爬虫
 
 # 环境
-~~```
+```
 pip install scrapy
-```~~
+```
 
-
+**或者**
 
 ## 参照Scrapy官方文档安装 https://docs.scrapy.org/en/latest/intro/install.html
 
