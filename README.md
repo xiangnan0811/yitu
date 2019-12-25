@@ -3,8 +3,9 @@
 
 # 环境
 ```python
-pip install scrapy
+~~pip install scrapy~~
 ```
+## 参照Scrapy官方文档安装 https://docs.scrapy.org/en/latest/intro/install.html
 # 使用
 ```python
 scrapy crawl mm
